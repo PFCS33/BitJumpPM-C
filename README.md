@@ -2,6 +2,8 @@
 
 Frontend client for the BIT Jump Program Manager - a YEAR 3 summer term project.
 
+Backend Reop: https://github.com/HandlerNine/BitJumpPM-S
+
 ## Technology Stack
 
 - **Frontend Framework**: Vue 3 with Composition API
